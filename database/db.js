@@ -35,7 +35,7 @@ const db ={};
  * @type {Sequelize}
  */
 
-const dbinfo = new Sequelize("DeeBuddy","root","",{
+const dbinfo = new Sequelize("DeeBuddy","root","LygCtkk4",{
     host: "localhost",
     dialect: "mysql",
     port: 3306,
